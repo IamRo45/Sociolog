@@ -1,6 +1,6 @@
 # Welcome to Sociolog
 
-1. This is a Social Blogging made using Flask and SQLAlchemy.
+1. This is a Social Blogging website made using Flask and SQLAlchemy.
 2. Application has a user subsystem that allows users to log in and out and a registration page to create new account.
 3. App has an explore page where a user can see the posts of all users in the system.
 4. A user can follow and unfollow other users.
